@@ -1,9 +1,4 @@
-# Next.js & HeroUI Template
-
-This is a template for creating applications using Next.js 14 (app directory) and HeroUI (v2).
-
-[Try it on CodeSandbox](https://githubbox.com/heroui-inc/heroui/next-app-template)
-
+# SPM Dashboard
 ## Technologies Used
 
 - [Next.js 14](https://nextjs.org/docs/getting-started)
@@ -16,12 +11,9 @@ This is a template for creating applications using Next.js 14 (app directory) an
 
 ## How to Use
 
-### Use the template with create-next-app
-
-To create a new project based on this template using `create-next-app`, run the following command:
-
+### Use this project
 ```bash
-npx create-next-app -e https://github.com/heroui-inc/next-app-template
+git clone https://github.com/fphaikal/spm-dashboard.git
 ```
 
 ### Install dependencies
